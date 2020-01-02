@@ -13,12 +13,10 @@ Software engineer with 5 years of experience building mobile, desktop and web ap
 <strong>API Specs</strong>: REST, GraphQL
 <strong>Infrastructure</strong>: Heroku, Docker
 <strong>Continuous Integration</strong>: Travis CI, Circle CI 
+<br>
 <strong>Languages</strong>: English
-
 </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p>My strongest professional areas are working in JavaScript/TypeScript . I can also do frontend technologies like ReactJS with Redux and Angular but I normally prefer to work on the backend using NodeJS and Express.
-I can also develop Android apps with Java and the Android SDK and I even have an app on the Google play store </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 <p>
 <h3>Useful links</h3>
