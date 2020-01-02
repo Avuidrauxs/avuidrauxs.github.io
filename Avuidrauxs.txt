@@ -20,6 +20,6 @@ I can also develop Android apps with Java and the Android SDK and I even have an
 <a href="https://medium.com/@audaxmutumbu">Medium blog</a>
 </p>
 
-Feel free to send me an email at<!-- longlonglongcomment --><a href="audax338@gmail.com">audax338@gmail.com</a>.
+Feel free to send me an email at: &nbsp;<!-- longlonglongcomment --><a href="audax338@gmail.com">audax338@gmail.com</a>.
 
 <p>Cheers!</p>
