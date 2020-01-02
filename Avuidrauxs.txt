@@ -11,13 +11,14 @@ I am a Fullstack JavaScript/TypeScript engineer with backend focus. I have been 
 <p>My strongest professional areas are working in JavaScript/TypeScript . I can also do frontend technologies like ReactJS with Redux and Angular but I normally prefer to work on the backend using NodeJS and Express.
 I can also develop Android apps with Java and the Android SDK and I even have an app on the Google play store </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
+<p>
 <h3>Useful links</h3>
 <a href="https://www.linkedin.com/in/audax-anchirinah/">LinkedIn</a> <br> 
 <a href="https://github.com/Avuidrauxs">Github</a> <br> 
 <a href="https://twitter.com/lil_dante">Twitter</a>  <br> 
 <a href="https://gitlab.com/Avuidrauxs">Gitlab</a> <br> 
 <a href="https://medium.com/@audaxmutumbu">Medium blog</a>
-
+</p>
 
 Feel free to send me an email at<!-- longlonglongcomment --><a href="audax338@gmail.com">audax338@gmail.com</a>.
 
