@@ -20,15 +20,15 @@ Software engineer with 5 years of experience building mobile, desktop and web ap
 
 <p>
 <h3>Useful links</h3>
-<a href="https://www.linkedin.com/in/audax-anchirinah/">LinkedIn</a> <br> 
-<a href="https://github.com/Avuidrauxs">Github</a> <br> 
-<a href="https://twitter.com/lil_dante">Twitter</a>  <br> 
-<a href="https://gitlab.com/Avuidrauxs">Gitlab</a> <br> 
-<a href="https://medium.com/@audaxmutumbu">Medium blog</a> <br>
-<a href="https://docs.google.com/document/d/1j2o3NqOYmcSyRMKtdRR3ru0lpYhmro-VXQfMufvzbEk/edit?usp=sharing">Download Resume</a>
+<a href="https://www.linkedin.com/in/audax-anchirinah/" target="_blank">LinkedIn</a> <br> 
+<a href="https://github.com/Avuidrauxs" target="_blank">Github</a> <br> 
+<a href="https://twitter.com/lil_dante" target="_blank">Twitter</a>  <br> 
+<a href="https://gitlab.com/Avuidrauxs" target="_blank">Gitlab</a> <br> 
+<a href="https://medium.com/@audaxmutumbu" target="_blank">Medium blog</a> <br>
+<a href="https://docs.google.com/document/d/1j2o3NqOYmcSyRMKtdRR3ru0lpYhmro-VXQfMufvzbEk/edit?usp=sharing" target="_blank">Access My Resume</a>
 
 </p>
 
-Feel free to send me an email at: &nbsp;<!-- longlonglongcomment --><a href="audax338@gmail.com">audax338@gmail.com</a>.
+Feel free to send me an email at: &nbsp;<!-- longlonglongcomment --><a href="mailTo:audax338@gmail.com">audax338@gmail.com</a>.
 
 <p>Cheers!</p>
