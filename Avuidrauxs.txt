@@ -4,15 +4,15 @@ My favorite code quote, "<span id="k">I will code for food</span>". <!-- sjkfhsk
 
 <h3>Audax Anchirinah - Software Engineer | Tech Mentor</h3>
 <p>
-Software engineer with 7 years of experience building mobile, desktop and web applications. I also have notable experience working with high performance engineering teams remotely and onsite to solve and complex software solutions.
+Software engineer with 8 years of experience building mobile, desktop and web applications. I also have notable experience working with high performance engineering teams remotely and onsite to solve and complex software solutions.
 </p>
 
 <p>
-<strong>Domain Knowledge</strong>: E-commerce, SAAS, Game Development, OSS, Agriculture.
+<strong>Domain Knowledge</strong>: Fintech, E-commerce, SAAS, Game Development, OSS, Agriculture.
 <strong>Tech Stacks</strong>: [JavaScript/TypeScript](React/Angular/NodeJS), [Java](J2SE/Android) Databases:​ MySQL, Postgres, MariaDB
 <strong>API Specs</strong>: REST, GraphQL
 <strong>Infrastructure</strong>: Heroku, Docker
-<strong>Continuous Integration</strong>: Travis CI, Circle CI 
+<strong>Continuous Integration</strong>: Travis CI, Circle CI, Semaphore CI 
 <br>
 <strong>Languages</strong>: English
 </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
@@ -26,7 +26,10 @@ Software engineer with 7 years of experience building mobile, desktop and web ap
 <a href="https://gitlab.com/Avuidrauxs" target="_blank">Gitlab</a> <br> 
 <a href="https://medium.com/@audaxmutumbu" target="_blank">Medium blog</a> <br>
 <a href="https://docs.google.com/document/d/1j2o3NqOYmcSyRMKtdRR3ru0lpYhmro-VXQfMufvzbEk/edit?usp=sharing" target="_blank">Access My Resume</a>
-
+<br/>
+<a href="https://www.codementor.io/@audax_gh?refer=badge"><img src="https://www.codementor.io/m-badges/audax_gh/find-me-on-cm-g.svg" alt="Codementor badge"></a>
+<br/>
+<a href="https://mentorcruise.com/mentor/AudaxAnchirinah/"> <img src="https://cdn.mentorcruise.com/img/banner/fire-sm.svg" width="240" alt="MentorCruise"> </a>
 </p>
 
 Feel free to send me an email at: &nbsp;<!-- longlonglongcomment --><a href="mailTo:audax338@gmail.com">audax338@gmail.com</a>.
