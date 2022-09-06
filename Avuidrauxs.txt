@@ -2,21 +2,10 @@
 <span id="a">audax@avuidrauxs</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Avuidrauxs.txt<br/><br/>
 My favorite code quote, "<span id="k">I will code for food</span>". <!-- sjkfhskjf -->
 
-<h3>Audax Anchirinah - Software Engineer | Tech Mentor</h3>
+<h3>Audax Anchirinah - Senior Software Engineer | Tech Mentor</h3>
 <p>
-Software engineer with 8 years of experience building mobile, desktop and web applications. I also have notable experience working with high performance engineering teams remotely and onsite to solve and complex software solutions.
+Software engineer with 8 years of experience building mobile, desktop and web applications. I also have notable experience working with high performance engineering teams remotely and onsite to solve and develop complex software solutions.
 </p>
-
-<p>
-<strong>Domain Knowledge</strong>: Fintech, E-commerce, SAAS, Game Development, OSS, Agriculture.
-<strong>Tech Stacks</strong>: [JavaScript/TypeScript](React/Angular/NodeJS), [Java](J2SE/Android) Databases:​ MySQL, Postgres, MariaDB
-<strong>API Specs</strong>: REST, GraphQL
-<strong>Infrastructure</strong>: Heroku, Docker
-<strong>Continuous Integration</strong>: Travis CI, Circle CI, Semaphore CI 
-<br>
-<strong>Languages</strong>: English
-</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-
 
 <p>
 <h3>Useful links</h3>
@@ -35,3 +24,15 @@ Software engineer with 8 years of experience building mobile, desktop and web ap
 Feel free to send me an email at: &nbsp;<!-- longlonglongcomment --><a href="mailTo:audax338@gmail.com">audax338@gmail.com</a>.
 
 <p>Cheers!</p>
+
+
+<!--
+<p>
+<strong>Domain Knowledge</strong>: Fintech, E-commerce, SAAS, Game Development, OSS, Agriculture.
+<strong>Tech Stacks</strong>: [JavaScript/TypeScript](React/Angular/NodeJS), [Java](J2SE/Android) Databases:​ MySQL, Postgres, MariaDB
+<strong>API Specs</strong>: REST, GraphQL
+<strong>Infrastructure</strong>: Heroku, Docker
+<strong>Continuous Integration</strong>: Travis CI, Circle CI, Semaphore CI 
+<br>
+<strong>Languages</strong>: English
+</p> ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
